@@ -29,6 +29,7 @@ The **Flex Project Template** comes with a set of features enabled by default wi
 | [Emoji Picker](emoji-picker)                    | _adds an emoji picker for messaging tasks_                                  |
 | [Enhanced CRM Container](enhanced-crm-container)         | _optimize the CRM container experience_                                                             |
 | [Hang Up By Reporting](hang-up-by)           | _populates the Hang Up By and Destination attributes in Flex Insights_                              |
+| [Inline Media](inline-media) | _render chat message attachments inline_                                                     |
 | [Internal Call (Agent to Agent)](internal-call) | _provide agents the ability to dial each other_                                                     |
 | [Park interaction](park-interaction)               | _provide agents the ability to park interactions, preserving conversation history_                  |
 | [Pause Recording](pause-recording)                 | _provide agents the ability to temporarily pause and resume call recording_ |
@@ -39,6 +40,8 @@ The **Flex Project Template** comes with a set of features enabled by default wi
 | [Supervisor Complete Reservation](supervisor-complete-reservation) | _allows supervisor to remotely complete agent tasks_                        |
 | [Teams View Enhancements](teams-view-enhancements)         | _adds optional columns (Team, Dept, Location, Skills) to the Workers Table. <br/> enable task highlighting based on task age_             |
 | [Teams View Filters](teams-view-filters)              | _adds additional filtering options to the supervisor teams view_            |
+| [Worker Canvas Tabs](worker-canvas-tabs)                    | _consolidates the worker canvas sections into tabs_     |
+| [Worker Details](worker-details)                    | _view or update worker attributes_     |
 
 ---
 
